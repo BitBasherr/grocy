@@ -4,7 +4,7 @@ from typing import Final
 
 NAME: Final = "Grocy"
 DOMAIN: Final = "grocy"
-VERSION = "0.0.0"
+VERSION = "1.0.0"
 
 ISSUE_URL: Final = "https://github.com/custom-components/grocy/issues"
 
