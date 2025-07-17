@@ -12,7 +12,7 @@ PLATFORMS: Final = ["binary_sensor", "sensor"]
 
 SCAN_INTERVAL = timedelta(seconds=30)
 
-DEFAULT_PORT: Final = 9192
+DEFAULT_PORT: Final = 9191
 CONF_URL: Final = "url"
 CONF_PORT: Final = "port"
 CONF_API_KEY: Final = "api_key"
